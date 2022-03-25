@@ -6,7 +6,7 @@ class BSTNode:
     self.right = right
   def __str__(self):
     return str(self.data)
-  def __repr(self):
+  def __repr__(self):
     return str(self.data)
 
 #Part 2: Create a BST class
